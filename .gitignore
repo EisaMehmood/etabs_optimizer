@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# ETABS Temporary & Backup Files
+*.$et
+*.ebk
+*.log
+*.OUT
+*.xml
+*.Y
+*.M
+*.K
+*.L
+*.T
+*.S
+*.D
+*.H
+*.I
+*.U
+*.W
+*.X
+*.Z
+*.edb.bak
+*.EDB.bak
+
+# Local Run Data
+runs/
+rebar_values_all_members.csv
+rebar_values_summary.txt
+validation_*.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
