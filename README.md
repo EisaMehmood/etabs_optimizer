@@ -27,8 +27,8 @@ This script connects directly to an active (or new) ETABS instance via the COM A
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/etabs-ga-optimizer.git
-   cd etabs-ga-optimizer
+   git clone https://github.com/EisaMehmood/etabs_optimizer.git
+   cd etabs_optimizer
    ```
 
 3. **Install Dependencies:**

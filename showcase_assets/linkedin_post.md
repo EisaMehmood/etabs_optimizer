@@ -13,7 +13,7 @@ By treating the structure as an evolutionary ecosystem, the algorithm literally 
 I've prepared a lightweight `demo.py` version of the project on GitHub that anyone can try out. 
 
 Check out the source code and documentation here: 
-🔗 [Insert GitHub Link Here]
+🔗 https://github.com/EisaMehmood/etabs_optimizer
 
 I'd love to hear feedback from both the structural engineering and software development communities. What other parameters would you optimize? 🤔
 
