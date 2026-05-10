@@ -66,4 +66,4 @@ To run a full-scale optimization:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-*Created by [Your Name/Handle]. Feel free to open issues or submit pull requests if you have ideas to improve the algorithm!*
+*Created by Eisa Mehmood. Feel free to open issues or submit pull requests if you have ideas to improve the algorithm!*
